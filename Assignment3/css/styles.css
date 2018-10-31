@@ -1,0 +1,61 @@
+
+/*HEADER*/
+#header-nav{
+    background-color:#eb9316;
+    border-radius: 0;
+}
+
+#header-nav a:hover, #header-nav a:focus{
+    text-decoration: none;
+}
+.container{
+    margin-left:0px;
+}
+
+.navbar-header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.navbar-brand span {
+
+    color: #2b669a;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #333333;
+    line-height: .75;
+}
+
+#nav-list{
+    background: #985f0d;
+    font-family: Inconsolata;
+    text-align: center;
+}
+
+#nav-list p{
+    color:white;
+}
+
+
+
+
+/*MAIN CONTENT*/
+#main-content{
+    font-family: 'Lora', serif;
+}
+
+
+#page-header{
+    font-size:1.8em;
+}
+.title{
+    text-align: center;
+}
+
+#introduction{
+    background: #aaaaaa;
+}
+
+
